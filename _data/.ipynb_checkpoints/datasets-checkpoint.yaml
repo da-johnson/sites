@@ -1,6 +1,6 @@
 - dataset:
   storage: local
-  name: gardner mt catastrophe only tubulin
+  name: Gardner mt catastrophe only tubulin
   filetype: ".csv"
   link: dataset1.csv
   filesize: "11 KB"
