@@ -14,37 +14,8 @@ title: >
 authors: >
   Alex Johnson, Shichen Liu, Zach Martinez
 Abstract: >
-  Microtubule disaster is the rapid deploymerization of microtubule subunits. The polymerization of microtubule subunits is slow relative to the rate at which deploymerization occurs. The polymerization and depolymerization of microtubules is a multistep problem. This is a general purpose website template for       conveying your data, code, and
-  overall scientific story to the general public! See the
-  [GitHub](https://github.com/gchure/reproducible_website) for the actual code
-  used to generate this website, along with lengthy documentation about how to use
-  it. This is meant to be used in tandem with the [GitHub repository template for
-  reproducible research](https://github.com/gchure/reproducible_research). The
-  Rest of this website is filled with dummy text (my favorite, [Hiptser
-  Ipsum](https://hipsum.co/)) for demonstrative purposes. It can even include
-  math like
-
-
-  $$S = k_b\ln \Omega. \tag{1}$$
-
-
-
-  Your abstract goes here.
-  Lorem ipsum dolor amet post-ironic aliquip next level vaporware, dolore
-  yuccie trust fund etsy officia blue bottle distillery ad. Raw denim swag
-  selvage wolf, direct trade air plant reprehenderit you probably haven’t heard
-  of them. Aute craft beer cray, pariatur la croix lumbersexual chillwave
-  fashion axe pug adipisicing woke banh mi. Hammock asymmetrical sustainable
-  keffiyeh biodiesel. Banjo trust fund leggings direct trade. Cronut plaid
-  shaman whatever, disrupt ad tofu minim pug dolore forage franzen glossier.
-  Small batch humblebrag ut, artisan health goth edison bulb voluptate lorem
-  dolore chillwave mumblecore iPhone craft beer ex. Enim fingerstache kale
-  chips, VHS succulents butcher meggings woke lo-fi mustache chicharrones chia
-  id consectetur. Gochujang taiyaki incididunt, chartreuse tumblr poutine banjo
-  culpa helvetica eu master cleanse migas umami. Dreamcatcher aliquip hexagon
-  disrupt deep v ugh, banjo truffaut distillery flannel la croix copper mug. Af
-  8-bit tattooed asymmetrical mumblecore swag direct trade iPhone disrupt
-  exercitation mixtape.
+  Microtubule disaster is the rapid deploymerization of microtubule subunits. The polymerization of microtubule subunits is slow relative to the rate at which deploymerization occurs. The polymerization and depolymerization of microtubules is a multistep problem and allows opportunities for researchers to alter the parameters and characterize the results. 
+  Our prior problem sets have given us the opportunity to explore the work done by [Garner, Zanic, and coworkers](https://doi.org/10.1016/j.cell.2011.10.037) in which they experimented with labeled and unlabeled tubulin subunits. The [current dataset](dataset1.csv) 
 Summary:  >
   A short summary of your work goes here. Think "significance statement".
   Nisi bushwick seitan et authentic aute, laboris blog sed in wayfarers lyft
