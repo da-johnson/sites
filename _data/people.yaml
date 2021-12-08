@@ -11,14 +11,14 @@
 - author:
   name: Alex Johnson
   title: Doctoral Student
-  img: Alex.jpg
+  img: Alex.jpeg
   institute: California Institute of Technology
   other_info:
      Email Address: "avoid_spam@caltech.edu"
 - author:
   name: Shichen Liu
   title: Doctoral Student
-  img: melanogaster.jpg
+  img: Shichen.jpg
   institute: California Institute of Technology
   other_info:
     Email Address: "avoid_spam@caltech.edu"
@@ -26,7 +26,7 @@
 - author:
   name: Zachary Martinez
   title: Doctoral Student
-  img: dr.osophila.jpg
+  img: Zach.jpg
   institute: California Institute of Technology
   other_info:
     Email Address: "avoid_spam@caltech.edu"
