@@ -2,6 +2,7 @@
 layout: page
 title: People
 description: About the authors
+img: people.png
 permalink: people
 sidebar: true
 ---
