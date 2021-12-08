@@ -2,5 +2,5 @@
   storage: local
   name: Gardner mt catastrophe only tubulin
   filetype: ".csv"
-  link: dataset1.csv
+  link: dataset1
   filesize: "11 KB"
