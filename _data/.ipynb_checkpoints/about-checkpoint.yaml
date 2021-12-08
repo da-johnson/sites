@@ -14,16 +14,15 @@ title: >
 authors: >
   Alex Johnson, Shichen Liu, Zach Martinez
 Abstract: >
-    The material shared in on this site pertains to the exploration of microtubule       catastrophe, the process in which the plus end of a microtubule shifts from           relatively slow subunit polymerization to relatively fast deploymerization. 
-    This is a general purpose website template for conveying your data, code, and
-    overall scientific story to the general public! See the
-    [GitHub](https://github.com/gchure/reproducible_website) for the actual code
-    used to generate this website, along with lengthy documentation about how to use
-    it. This is meant to be used in tandem with the [GitHub repository template for
-    reproducible research](https://github.com/gchure/reproducible_research). The
-    Rest of this website is filled with dummy text (my favorite, [Hiptser
-    Ipsum](https://hipsum.co/)) for demonstrative purposes. It can even include
-    math like
+  This is a general purpose website template for conveying your data, code, and
+  overall scientific story to the general public! See the
+  [GitHub](https://github.com/gchure/reproducible_website) for the actual code
+  used to generate this website, along with lengthy documentation about how to use
+  it. This is meant to be used in tandem with the [GitHub repository template for
+  reproducible research](https://github.com/gchure/reproducible_research). The
+  Rest of this website is filled with dummy text (my favorite, [Hiptser
+  Ipsum](https://hipsum.co/)) for demonstrative purposes. It can even include
+  math like
 
 
   $$S = k_b\ln \Omega. \tag{1}$$
