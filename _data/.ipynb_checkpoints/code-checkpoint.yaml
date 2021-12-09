@@ -9,11 +9,11 @@
 - script:
   name: script3.py
   desc: >
-    Provides confidence intervals for $\alpha$ and $\Beta$ given the gamma model.
+    Provides confidence intervals for $\alpha$ and $\beta$ given the gamma model.
 - script:
   name: script4.py
   desc: >
-    Provides confidence intervals for $\alpha$ and $\Beta$ given two successive poisson processes mixture model.
+    Provides confidence intervals for $\alpha$ and $\beta$ given two successive poisson processes mixture model.
 - script:
   name: script5.py
   desc: >
