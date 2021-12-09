@@ -25,8 +25,10 @@ Mixture Model PDF:  >
      $f(t;\beta_1, \beta_2) = \frac{\beta_1 \beta_2}{\beta_2 - \beta_1}(e^{-\beta_1 t}-e^{-\beta_2 t})$
 
 Some Problems:  >
-  ![Figure 1](fig1.png)
-Acknowledgments: > 
+  ![Figure 1](fig1.png)  
+  
+  Why does the image not appear?
+: > 
   Who helped you? Share the love! Valeria Rivera, Destiny Roach, Alberto 
   Fernandez, Trenton Rowland, Sherlyn Frederick, Mallory Irwin, Jazmyn Cohen,
   Jaylene Page, Kelsey Hayes, Sonny Wilson, Roy Taylor, Ryleigh Daugherty.
