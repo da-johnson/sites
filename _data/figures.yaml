@@ -1,12 +1,12 @@
 - fig:
-  title: "Fig. 1: Paleo cardigan kombucha, pickled brunch shabby chic "
+  title: "Test "
   filename: script1.py
   desc:  Used to generate the figure1
-  pic: fig1.png
+  pic: logo.png
   req:
     - ds: 
-      storage: remote
-      title: Dataset 1
+      storage: local
+      title: dataset1.csv
       link: "http://data.caltech.edu"
 
 - fig:
