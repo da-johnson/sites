@@ -17,11 +17,6 @@ Abstract: >
   Microtubule disaster is the rapid deploymerization of microtubule subunits (tubulin). The polymerization of tubulin is slow relative to the rate at which deploymerization occurs. The polymerization and depolymerization of microtubules is a multistep problem and allows opportunities for researchers to alter the parameters and characterize the results. 
   Our prior problem sets have given us the opportunity to explore the work done by [Garner, Zanic, and coworkers](https://doi.org/10.1016/j.cell.2011.10.037) in which they experimented with labeled and unlabeled tubulin subunits. The [current dataset](https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_mt_catastrophe_only_tubulin.csv) contains the time to catastrophe for microtubules consisting of labeled tubulin. We are shown that the time to disaster is relative to the concetration of tubulin supplied to the solution. 
   Here, we performed exploratory data analysis and evaluated two models to best fit the data for the 12 $\mu M$ tubulin sample.
- 
-Image:  >
-  <img src="logo.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
      
 Summary:  >
   A short summary of your work goes here. Think "significance statement".

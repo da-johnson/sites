@@ -1,11 +1,21 @@
 - script:
   name: script1.py
   desc: >
-    Super fancy script which calcualate some complicated stuff with
-    well-documented code.
+    Script that reads data and organizes it into two usable frames.
 - script:
   name: script2.py
   desc: >
-    Yet another script that does something-or-other.
-
+    Generates ECDF of the data.
+- script:
+  name: script3.py
+  desc: >
+    Provides confidence intervals for $\alpha$ and $\Beta$ given the gamma model.
+- script:
+  name: script4.py
+  desc: >
+    Provides confidence intervals for $\alpha$ and $\Beta$ given two successive poisson processes mixture model.
+- script:
+  name: script5.py
+  desc: >
+    Plots the ecdf of the two models.
 
