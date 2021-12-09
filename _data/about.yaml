@@ -19,14 +19,9 @@ Abstract: >
   Here, we performed exploratory data analysis and evaluated two models to best fit the data for the 12 $\mu M$ tubulin sample.
 
 Formulas:  >
-
-\begin{align}
-Gamma\ Distribution\ PDF\ f(t;\alpha, \beta) = \frac{1}{\Gamma(\alpha)} \frac{(\beta t)^\alpha}{t} \mathrm{e}^{-\beta t}
-\end{align}
-
-\begin{align}
-Mixture\ Model\ PDF\ f(t;\beta_1, \beta_2) = \frac{\beta_1\beta_2}{\beta_2 - \beta_1}\left(\mathrm{e}^{-\beta_1 t} - \mathrm{e}^{-\beta_2 t}\right).
-\end{align}
+    Mixture Model PDF $f(t;\beta_1, \beta_2) = \frac{\beta_1 \beta_2}{\beta_2 - \beta_1}(e^{-\beta_1 t}-e^{-\beta_2 t})$
+    
+    Gamma\ Distribution\ PDF\ f(t;\alpha, \beta) = \frac{1}{\Gamma(\alpha)} \frac{(\beta t)^\alpha}{t} \mathrm{e}^{-\beta t}
 
 Summary:  >
   A short summary of your work goes here. Think "significance statement".
