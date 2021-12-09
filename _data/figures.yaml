@@ -1,13 +1,13 @@
 - fig:
   title: "Test "
-  filename: script1.py
+  filename: logo.png
   desc:  Used to generate the figure1
   pic: logo.png
   req:
     - ds: 
       storage: local
-      title: dataset1.csv
-      link: "http://data.caltech.edu"
+      title: logo.png
+      link: logo.png
 
 - fig:
   title: "Fig. 2: Activated charcoal tilde kombucha. "
