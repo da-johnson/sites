@@ -19,7 +19,7 @@ Abstract: >
   Here, we performed exploratory data analysis and evaluated two models to best fit the data for the 12 $\mu M$ tubulin sample.
 
 Gama Distribution PDF:  >
-    $f(t;\alpha, \beta_2) = \frac{1}{\Gamma (\alpha)} \frac{(\beta t)^\alpha}{t}e^{-\beta t}$
+    $f(t;\alpha, \beta) = \frac{1}{\Gamma (\alpha)} \frac{(\beta t)^\alpha}{t}e^{-\beta t}$
 
 Mixture Model PDF:  >
      $f(t;\beta_1, \beta_2) = \frac{\beta_1 \beta_2}{\beta_2 - \beta_1}(e^{-\beta_1 t}-e^{-\beta_2 t})$
