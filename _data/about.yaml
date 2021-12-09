@@ -24,15 +24,8 @@ Gama Distribution PDF:  >
 Mixture Model PDF:  >
      $f(t;\beta_1, \beta_2) = \frac{\beta_1 \beta_2}{\beta_2 - \beta_1}(e^{-\beta_1 t}-e^{-\beta_2 t})$
 
-Summary:  >
-  A short summary of your work goes here. Think "significance statement".
-  Nisi bushwick seitan et authentic aute, laboris blog sed in wayfarers lyft
-  plaid ut. Id aesthetic venmo, palo santo aliqua photo booth blue bottle.
-  Meditation non copper mug lomo glossier kombucha. Cred laboris meditation
-  poke sriracha street art letterpress food truck master cleanse adipisicing.
-  Hashtag affogato chambray vaporware subway tile, kogi helvetica ea tacos sint
-  brooklyn. Williamsburg waistcoat raclette seitan glossier messenger bag
-  dolore ramps, flannel magna nisi hot chicken elit pariatur kale chips.
+Some Problems:  >
+  ![Figure 1](fig1.png)
 Acknowledgments: > 
   Who helped you? Share the love! Valeria Rivera, Destiny Roach, Alberto 
   Fernandez, Trenton Rowland, Sherlyn Frederick, Mallory Irwin, Jazmyn Cohen,
